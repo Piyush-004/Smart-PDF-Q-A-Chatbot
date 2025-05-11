@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+*.bak
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Byte-compiled / packages
+*.egg-info/
+*.eggs/
+*.egg
+
+# Output files
+*.pdf
+*.db
+*.sqlite
+
+# Test
+htmlcov/
+coverage.xml
+*.cover
+
+# LangChain Vectorstores (if persisted)
+index.faiss
+index.pkl
+
+# Project-specific
+htmlTemplates/__pycache__/

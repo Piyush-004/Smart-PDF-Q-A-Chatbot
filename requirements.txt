@@ -1,0 +1,8 @@
+streamlit
+langchain
+PyPDF2
+python-dotenv
+faiss-cpu
+sentence-transformers
+pydantic
+boltiotai
