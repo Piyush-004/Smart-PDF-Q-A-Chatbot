@@ -46,3 +46,8 @@ Custom HTML/CSS – Chat message templates and styling
 
 ### 🔐 Utilities
 python-dotenv – Secure environment variable loading from .env
+
+## Working
+
+https://github.com/user-attachments/assets/f3c3fb0c-16db-4a92-9cc1-fb5c8175a6d2
+
