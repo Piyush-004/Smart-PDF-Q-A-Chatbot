@@ -32,12 +32,12 @@ ConversationBufferMemory – Maintains context history
 
 FAISS – High-speed similarity search engine
 
-HuggingFace Embeddings – sentence-transformers/all-MiniLM-L6-v2
+Gemini Embeddings – gemini/embedding-001
 
 ### 🤖 LLM Integration
-Custom LLM Wrapper – BoltOpenAILLM, built on LangChain
+LLM Wrapper – Gemini LLM
 
-BoltIoT OpenAI API – via boltiotai.openai for chat completions
+Gemini API – via generativeai for chat completions
 
 ### 💻 Frontend
 Streamlit – Web UI and interactivity
@@ -46,3 +46,9 @@ Custom HTML/CSS – Chat message templates and styling
 
 ### 🔐 Utilities
 python-dotenv – Secure environment variable loading from .env
+
+
+
+
+https://github.com/user-attachments/assets/31429b83-3814-4144-8b6a-4da9f83e1b4e
+
